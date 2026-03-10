@@ -1,1 +1,1 @@
-# projet_php
+# Mini projet PHP guidé
